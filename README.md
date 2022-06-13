@@ -2,6 +2,8 @@
 
 # 💫About Me :
 🌱 I'm currently learning on Web Development (full-stack)
+⭐️ I'm hoping to be a Web or Software Developer
+🏁 BlockChain Developing is my next Challenge
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jcmaker0627_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbcvB1l_2BT5Zb3bi7erQKg) 
