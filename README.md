@@ -82,6 +82,8 @@ Main tools I use:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jcmaker&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="Justin's GitHub stats" />
 </p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jcmaker&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmaker&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Contact
 
