@@ -55,7 +55,7 @@ My focus:
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,supabase,tailwind,python,figma,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,supabase,tailwind,python,raspberrypi,figma,github" alt="Tech Stack" />
 </p>
 
 Main tools I use:
@@ -77,22 +77,13 @@ Main tools I use:
 * AI as a practical assistant, not just a buzzword
 * Writing code that future-me can still understand
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jcmaker&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="Justin's GitHub stats" />
-</p>
-
-
 ## Contact
 
 * Email: [jcmaker0627@gmail.com](mailto:jcmaker0627@gmail.com)
 * LinkedIn: Add your LinkedIn URL here
 * Instagram: [@justinsta_627](https://www.instagram.com/justinsta_627/)
 
-
-
-# 📊GitHub Stats :
+## GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=jcmaker&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcmaker&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmaker&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
