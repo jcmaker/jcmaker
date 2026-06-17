@@ -88,12 +88,8 @@ Main tools I use:
 
 * Email: [jcmaker0627@gmail.com](mailto:jcmaker0627@gmail.com)
 * LinkedIn: Add your LinkedIn URL here
-* Instagram: [@justinstaq_627](https://www.instagram.com/justinsta_627/)
+* Instagram: [@justinsta_627](https://www.instagram.com/justinsta_627/)
 
-
-
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/justintime_0627/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbcvB1l_2BT5Zb3bi7erQKg) 
 
 
 # 📊GitHub Stats :
