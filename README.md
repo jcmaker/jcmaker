@@ -81,9 +81,19 @@ Main tools I use:
 
 ## Contact
 
-* Email: [jcmaker0627@gmail.com](mailto:jcmaker0627@gmail.com)
-* LinkedIn: Add your LinkedIn URL here
-* Instagram: [@justinsta_627](https://www.instagram.com/justinsta_627/)
+## Contact
+
+<p>
+  <a href="mailto:jcmaker0627@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jcmaker0627%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/justin-cho-39850a1b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Justin%20Cho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/justinsta_627/">
+    <img src="https://img.shields.io/badge/Instagram-justinsta__627-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ## GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=jcmaker&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
