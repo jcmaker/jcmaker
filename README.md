@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-# 💫About Me :
-# Justin Cho
+# I'm Justin Cho
 
 Full-stack developer and product-minded builder from Korea.
 
