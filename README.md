@@ -57,6 +57,10 @@ My focus:
 <p>
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,supabase,tailwind,python,raspberrypi,figma,github" alt="Tech Stack" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+</p>
 
 Main tools I use:
 
