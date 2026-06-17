@@ -86,10 +86,10 @@ Main tools I use:
 <p>
   <a href="mailto:jcmaker0627@gmail.com">
     <img src="https://img.shields.io/badge/Email-jcmaker0627%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a></br>
   <a href="https://www.linkedin.com/in/justin-cho-39850a1b0/">
     <img src="https://img.shields.io/badge/LinkedIn-Justin%20Cho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a></br>
   <a href="https://www.instagram.com/justinsta_627/">
     <img src="https://img.shields.io/badge/Instagram-justinsta__627-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
