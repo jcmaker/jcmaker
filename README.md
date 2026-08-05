@@ -1,112 +1,149 @@
-### Hi there 👋
-# I'm Justin Cho
+# Justin Cho
 
-Full-stack developer and product-minded builder from Korea.
+**AI Product Engineer · Full-Stack Developer**
 
-I build web products, AI-assisted tools, and student-friendly systems that solve real problems.
-I like moving fast from idea to MVP, but I also care about product direction, UX, and whether people actually use what I make.
+I turn operational problems into AI-powered products that people can actually use.
 
-## What I'm Building
+My work covers the full product lifecycle—from defining the problem and designing the system to full-stack implementation, deployment, and operation.
+
+[Portfolio](https://justincho.dev) · [LinkedIn](https://www.linkedin.com/in/justin-cho-39850a1b0/) · [Email](mailto:jcmaker0627@gmail.com)
+
+---
+
+## About Me
+
+* Building AI products around real operational workflows
+* Designing and implementing products from idea to deployment
+* Interested in AI Product Engineering, Product Engineering, FDE, and AX
+* Based in Seoul, South Korea
+
+I care about more than shipping features. I focus on whether the product solves the right problem, fits the user's workflow, and continues to work in a real environment.
+
+---
+
+## Selected Work
 
 ### Quest-On
 
-AI-based interactive exam and grading platform.
+**AI assessment SaaS deployed in live university exams**
 
-Quest-On is a product for making exams more interactive, flexible, and reasoning-based.
-I work on product planning, full-stack development, UX flow, and AI feature design.
+Quest-On helps instructors create reasoning-based assessments and evaluate student responses with AI-assisted grading workflows.
 
-My focus:
+I lead the product engineering work across:
 
-* Product direction and feature planning
-* Full-stack web development
-* AI-assisted grading and feedback flow
-* User experience for students and instructors
+* Product architecture and system design
+* Full-stack implementation
+* AI evaluation and feedback pipeline
+* Deployment, monitoring, and exam operations
+
+**Impact**
+
+* Reduced grading workload by approximately **80%**
+* Used by approximately **400 students per semester**
+* Piloted with **2 academic institutions**
+
+[View Case Study](https://justincho.dev/ko/projects/quest-on)
+
+---
 
 ### GTEC Board
 
-A Linear-inspired project board for GTEC students.
+**Project and issue-tracking system for student teams**
 
-GTEC Board is being designed for students who work on capstone projects, team assignments, and school projects.
-The goal is to help students manage tasks, issues, progress, and team communication in a more practical way.
+A Linear-inspired collaboration tool designed for capstone projects, team assignments, and school-based development projects.
 
-Current direction:
+The product focuses on turning complex project-management concepts into a workflow that students can understand and adopt quickly.
 
-* Project and task management
-* Team workflow for students
-* Simple issue tracking
-* School-friendly product experience
+Key areas:
+
+* Project, task, and issue management
+* Team progress and workflow visibility
+* Sprint-based collaboration
+* Student-friendly onboarding and UX
+
+---
+
+### PRD Maker
+
+**Open-source workflow for creating agent-ready product requirements**
+
+PRD Maker turns rough product ideas into structured `PRD.md` documents through a guided interview process.
+
+It is designed to produce requirements that coding agents such as Claude Code and Codex can understand and execute more reliably.
+
+* Guided product discovery
+* Scope and non-goal definition
+* Structured implementation requirements
+* Automated PRD validation
+
+[View Repository](https://github.com/jcmaker/prd-maker)
+
+---
 
 ### ClearBox
 
-AI-assisted accident response blackbox concept.
+**Raspberry Pi-based accident-response AI prototype**
 
-ClearBox is a capstone project focused on helping users organize accident evidence after a car accident.
-The system uses camera-based analysis to detect key moments and generate a structured accident timeline.
+ClearBox is a capstone project that records driving footage and helps users organize important accident evidence after a collision.
 
-My focus:
+The system is designed to:
 
-* Product concept and system design
-* Raspberry Pi-based prototype planning
-* Camera-based accident analysis flow
-* Report generation and user scenario design
+* Record and manage camera footage locally
+* Detect and extract important accident moments
+* Build a structured event timeline
+* Generate an evidence-oriented report draft
+
+My work focuses on product design, system architecture, camera-analysis workflows, and report-generation scenarios.
+
+---
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,supabase,tailwind,python,raspberrypi,figma,github" alt="Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,supabase,tailwind,python,raspberrypi,figma,github,vercel"
+    alt="TypeScript, Next.js, React, Node.js, Supabase, Tailwind CSS, Python, Raspberry Pi, Figma, GitHub, and Vercel"
+  />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
-</p>
 
-Main tools I use:
+**Product & Frontend**
 
-* TypeScript
-* Next.js
-* React
-* Node.js
-* Supabase
-* Tailwind CSS
-* Python
-* Figma
+`TypeScript` · `Next.js` · `React` · `Tailwind CSS` · `Figma`
 
-## I Care About
+**Backend & Data**
 
-* Building products that people can actually use
-* Turning messy problems into simple workflows
-* Fast MVPs with clear direction
-* AI as a practical assistant, not just a buzzword
-* Writing code that future-me can still understand
+`Node.js` · `Supabase` · `Convex` · `PostgreSQL`
 
-## Contact
+**AI & Prototyping**
+
+`Python` · `LLM APIs` · `AI Evaluation` · `Raspberry Pi`
+
+**Development & Deployment**
+
+`GitHub` · `Vercel` · `CI/CD`
+
+---
+
+## What I Value
+
+* Solving real problems instead of adding AI for its own sake
+* Turning ambiguous requirements into clear product workflows
+* Shipping quickly while maintaining a scalable product direction
+* Understanding deployment and operations, not only implementation
+* Building systems that remain understandable and maintainable
+
+---
 
 ## Contact
 
 <p>
   <a href="mailto:jcmaker0627@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jcmaker0627%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a></br>
+    <img src="https://img.shields.io/badge/Email-jcmaker0627%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/justin-cho-39850a1b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Justin%20Cho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a></br>
-  <a href="https://www.instagram.com/justinsta_627/">
-    <img src="https://img.shields.io/badge/Instagram-justinsta__627-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Justin%20Cho-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://justincho.dev">
+    <img src="https://img.shields.io/badge/Portfolio-justincho.dev-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-## GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=jcmaker&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jcmaker&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmaker&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=jcmaker&icon=5&color=3)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jcmaker0627) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
