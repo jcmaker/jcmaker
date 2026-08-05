@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello!%20👋&reversal=false
+
 # Justin Cho
 
 **AI Product Engineer · Full-Stack Developer**
