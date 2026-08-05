@@ -138,11 +138,30 @@ My work focuses on product design, system architecture, camera-analysis workflow
 
 ## GitHub Stats
 
-<p> <img height="170" src="https://github-readme-stats.vercel.app/api?username=jcmaker&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Justin Cho's GitHub statistics" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmaker&layout=compact&hide_border=true&langs_count=8" alt="Justin Cho's most used languages" /> </p>
+<p align="left">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=jcmaker&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&bg_color=00000000&v=2"
+    alt="Justin Cho's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmaker&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=00000000&v=2"
+    alt="Justin Cho's most used languages"
+  />
+</p>
 
-<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcmaker&hide_border=true" alt="Justin Cho's GitHub contribution streak" /> </p>
+<p align="left">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=jcmaker&theme=github-dark-blue&hide_border=true&background=00000000&v=2"
+    alt="Justin Cho's GitHub contribution streak"
+  />
+</p>
 
-GitHub language statistics reflect public repository file composition, not overall proficiency.
+<sub>
+  GitHub language statistics reflect public repository file composition, not overall proficiency.
+</sub>
 
 ---
 
