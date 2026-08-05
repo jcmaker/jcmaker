@@ -136,7 +136,7 @@ My work focuses on product design, system architecture, camera-analysis workflow
 
 ---
 
-##GitHub Stats
+## GitHub Stats
 
 <p> <img height="170" src="https://github-readme-stats.vercel.app/api?username=jcmaker&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Justin Cho's GitHub statistics" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmaker&layout=compact&hide_border=true&langs_count=8" alt="Justin Cho's most used languages" /> </p>
 
