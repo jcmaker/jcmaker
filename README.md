@@ -125,11 +125,11 @@ It is designed to produce clearer requirements that coding agents such as Claude
 
 ## Current Project
 
-### ClearBox
+### DashPi
 
 **Offline-first, Raspberry Pi-based accident-response AI prototype**
 
-ClearBox is a capstone project that records driving footage and helps users organize important evidence after a vehicle accident.
+DashPi is a capstone project that records driving footage and helps users organize important evidence after a vehicle accident.
 
 The system is being designed to:
 
