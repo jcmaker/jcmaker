@@ -245,4 +245,6 @@ Open to AI Product Engineering, Product Engineering, FDE, and AX opportunities.
   </a>
 </p>
 
+![](https://gh-hits.nomadcoders.workers.dev/view?username=$USERNAME)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer)
