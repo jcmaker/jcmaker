@@ -20,6 +20,8 @@ My work covers the full product lifecycle—from defining the problem and design
   </a>
 </p>
 
+![](https://gh-hits.nomadcoders.workers.dev/view?username=$USERNAME)
+
 ---
 
 ## About Me
