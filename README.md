@@ -26,6 +26,7 @@ My work covers the full product lifecycle—from defining the problem and design
 
 ## About Me
 
+- Currently working as a developer at **glowuprizz**
 - Building products around real operational workflows
 - Designing and implementing systems from idea to deployment
 - Working across product architecture, full-stack development, and applied AI
